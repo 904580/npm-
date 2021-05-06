@@ -1,0 +1,20 @@
+1.NPM Install -g create-react-app
+2.NPM create-react-app myapp
+3.npm -v
+4.node-v
+5.npm install react react-dom --save
+6. npm list packagename
+7.npm list react-dom
+8.npm list react-router
+9.npm install sqlite3 --save
+10.npm uninstall sqlite3 
+11. npm start
+12.npm stop
+13.npm run build
+14.npm install swagger-ui-express
+15. npm install express --save
+16.npm init -y
+17.npm type > NUL index.js
+18. npm install nodemon --save-dev
+19. npm install mongodb --save
+20.npm install ejs --save
